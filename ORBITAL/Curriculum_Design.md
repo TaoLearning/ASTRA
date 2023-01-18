@@ -1,6 +1,7 @@
 * Discussed about Learning and Development and what it is.
 
-* That we started with the single guide, the Leadership Guide but we're expanding and making multiple guides to cover the topic inside that leadership guide deeper.
+* That we started with the single guide, the Leadership Guide but we're expanding and making multiple guides to cover the topics inside and more thoroughly.
+* Discussed about studying [FES](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/classifierhandbook.pdf)  from the US Personnel Management office and how it might apply to our grading system.
 
 * Discussed about the curriculum designs, pedagogical approaches, soft skills and hard skills according to the unalome.
 
