@@ -51,3 +51,6 @@ TASK / QUESTIONS:
 3. Are we going to use the Dance grading system and edit the tasks accordingly? And the grade of these tasks goes to the Focus Grading System?
 
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/61100293/213289140-a3b5a8cb-2728-4b8b-b597-efc0dcd028d2.png">
+
+4. Research how to create and how to grade the curriculum.
+5. Research if we're going to use the traditional grading system or if we can find something that's innovative and has been applied already? Maybe find something on GitHub Classroom for example.
