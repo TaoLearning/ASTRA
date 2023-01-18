@@ -4,25 +4,25 @@
 
 * Discussed about the curriculum designs, pedagogical approaches, soft skills and hard skills according to the unalome.
 
-UNALOME
+## UNALOME
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/61100293/213289700-718a3d3b-d9fd-4809-9931-5b8caea8a80a.png">
 
 
-SOFT SKILLS
+## SOFT SKILLS
 
 <img width="176" alt="image" src="https://user-images.githubusercontent.com/61100293/213289744-dd410986-11bd-43d9-8056-1d74b3d3c565.png">
 
 <img width="567" alt="image" src="https://user-images.githubusercontent.com/61100293/213286518-28b43fc3-8248-4dca-9cb2-e5655d1cc59e.png">
 
 
-HARD SKILLS
+## HARD SKILLS
 
 <img width="162" alt="image" src="https://user-images.githubusercontent.com/61100293/213289784-57b5e4db-3195-4d0e-9b82-1c43cadee6df.png">
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/61100293/213286580-5731787e-8d17-49bf-98a5-70b80765dcba.png">
 
-PEDAGOGICAL APPROACHES
+## PEDAGOGICAL APPROACHES
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/61100293/213286676-635e9277-4573-4950-8452-38760d7f5c06.png">
 
@@ -40,7 +40,7 @@ PEDAGOGICAL APPROACHES
 
 <img width="1782" alt="image" src="https://user-images.githubusercontent.com/61100293/213288095-d51a85b6-b473-4238-986c-d95f169e484b.png">
 
-TASK / QUESTIONS:
+### TASK / QUESTIONS:
 
 1. Figure out how to grade inside the Focus Grading System.
 
