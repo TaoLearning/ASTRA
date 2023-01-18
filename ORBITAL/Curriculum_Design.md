@@ -26,3 +26,15 @@ PEDAGOGICAL APPROACHES
 * Since it is making roots then the process in the powerpoint slide is going downwards. It shows how it is connected to the spreadsheet.
 
 <img width="1782" alt="image" src="https://user-images.githubusercontent.com/61100293/213288095-d51a85b6-b473-4238-986c-d95f169e484b.png">
+
+TASK / QUESTIONS:
+
+1. Figure out how to grade inside the Focus Grading System.
+
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/61100293/213288789-d55ce6f8-264c-4707-81ad-768ed85f4f17.png">
+
+2. Questions to ask students in the assessment area of the Focus Grading System.
+
+3. Are we going to use the Dance grading system and edit the tasks accordingly? And the grade of these tasks goes to the Focus Grading System?
+
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/61100293/213289140-a3b5a8cb-2728-4b8b-b597-efc0dcd028d2.png">
