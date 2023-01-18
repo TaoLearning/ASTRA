@@ -1,3 +1,7 @@
+* Discussed about Learning and Development and what it is.
+
+* That we started with the single guide, the Leadership Guide but we're expanding and making multiple guides to cover the topic inside that leadership guide deeper.
+
 * Discussed about the curriculum designs, pedagogical approaches, soft skills and hard skills according to the unalome.
 
 UNALOME
