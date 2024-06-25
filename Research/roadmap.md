@@ -1,9 +1,10 @@
 
-## Roadmap to Accreditation for ASTRA Program
+### Roadmap to Accreditation for ASTRA Program
 
 ### 1. Initial Planning Phase
 
 1.1 Create a Roadmap
+
 -   Develop a detailed roadmap with multiple milestones and track progress on GitHub to ensure transparency and accountability.
 
 1.2 Define Program Goals and Objectives
@@ -16,12 +17,17 @@
 -   Assess the demand for the program and its degree offerings (Bachelor's, Master's, and PhD).
 -   Identify potential competitors and differentiate ASTRA's unique selling points.
 
-1.4 Formulate Curriculum
+1.4 Seek Initial Grant Opportunities
+
+-   Identify and apply for grants  that support educational program development, market research, and initial planning activities.
+-   Look for grants from educational foundations, government agencies, and private sector partners.
+
+1.5 Formulate Curriculum
 
 -   Develop a detailed curriculum for each degree program, ensuring it meets educational standards.
 -   Integrate interdisciplinary courses, unique methodologies, and interest-driven activities.
 
-1.5 Establish Partnerships
+1.6 Establish Partnerships
 
 -   Form partnerships with industry leaders (e.g., Microsoft Education Partner) to enhance program credibility.
 -   Collaborate with academic institutions and professionals for curriculum development and guest lectures.
@@ -33,17 +39,22 @@
 -   Hire qualified faculty with expertise in advanced sciences, technology, reasoning, and automation.
 -   Ensure faculty credentials align with accreditation requirements.
 
-2.2 Infrastructure and Resources
+2.2 Seek Development Grants
+
+-   Apply for grants  that support faculty recruitment, infrastructure development, and resource acquisition.
+-   Explore grants from educational institutions, technology companies, and government programs focused on STEM education.
+
+2.3 Infrastructure and Resources
 
 -   Develop online and correspondence learning platforms.
 -   Ensure access to digital content, synchronous interaction tools, and self-directed learning modules.
 
-2.3 Create Policies and Procedures
+2.4 Create Policies and Procedures
 
 -   Develop academic policies, student handbooks, and administrative procedures.
 -   Ensure policies comply with accreditation standards and legal requirements.
 
-2.4 Pilot Program
+2.5 Pilot Program
 
 -   Run a pilot program to test the curriculum, teaching methodologies, and learning platforms.
 -   Collect feedback from pilot participants and make necessary adjustments.
@@ -60,12 +71,17 @@
 -   Prepare comprehensive documentation, including program goals, curriculum outlines, faculty credentials, and student support services.
 -   Compile evidence of compliance with accreditation standards.
 
-3.3 Self-Assessment
+3.3 Seek Accreditation Support Grants
+
+-   Identify and apply for grants  that support the accreditation process, including documentation preparation and self-assessment activities.
+-   Look for grants from educational accrediting bodies and government agencies that support quality assurance in education.
+
+3.4 Self-Assessment
 
 -   Conduct an internal self-assessment to identify strengths and areas for improvement.
 -   Ensure all aspects of the program meet accreditation criteria.
 
-3.4 Submit Application
+3.5 Submit Application
 
 -   Submit the accreditation application along with the required documentation to the accrediting body.
 -   Pay any applicable fees and ensure all deadlines are met.
@@ -94,12 +110,17 @@
 -   Implement a continuous improvement plan to maintain accreditation standards.
 -   Regularly review and update the curriculum, policies, and procedures.
 
-5.2 Marketing and Recruitment
+5.2 Seek Continuous Improvement Grants
+
+-   *Apply for grants  that support ongoing program improvement, curriculum updates, and faculty development.
+-   Explore grants from educational foundations, government programs, and industry partners focused on continuous improvement in education.
+
+5.3 Marketing and Recruitment
 
 -   Promote the accredited ASTRA Program to prospective students.
 -   Highlight the program's unique features, accreditation status, and career opportunities.
 
-5.3 Monitor Compliance
+5.4 Monitor Compliance
 
 -   Ensure ongoing compliance with accreditation standards.
 -   Prepare for periodic reviews and re-accreditation processes.
