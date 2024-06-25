@@ -1,7 +1,6 @@
+# Roadmap to Accreditation for ASTRA Program
 
-### Roadmap to Accreditation for ASTRA Program
-
-### 1. Initial Planning Phase
+## 1. Initial Planning Phase
 
 1.1 Create a Roadmap
 
@@ -32,7 +31,7 @@
 -   Form partnerships with industry leaders (e.g., Microsoft Education Partner) to enhance program credibility.
 -   Collaborate with academic institutions and professionals for curriculum development and guest lectures.
 
-### 2. Development Phase
+## 2. Development Phase
 
 2.1 Faculty Recruitment
 
@@ -59,7 +58,7 @@
 -   Run a pilot program to test the curriculum, teaching methodologies, and learning platforms.
 -   Collect feedback from pilot participants and make necessary adjustments.
 
-### 3. Accreditation Preparation Phase
+## 3. Accreditation Preparation Phase
 
 3.1 Understand Accreditation Requirements
 
@@ -86,7 +85,7 @@
 -   Submit the accreditation application along with the required documentation to the accrediting body.
 -   Pay any applicable fees and ensure all deadlines are met.
 
-### 4. Accreditation Review Phase
+## 4. Accreditation Review Phase
 
 4.1 Site Visit Preparation
 
@@ -103,7 +102,7 @@
 -   Address any feedback or recommendations provided by the accrediting body.
 -   Make necessary improvements and submit a response to the accrediting body.
 
-### 5. Post-Accreditation Phase
+## 5. Post-Accreditation Phase
 
 5.1 Continuous Improvement
 
