@@ -5,13 +5,11 @@
 
 1.2 Define Program Goals and Objectives
 
-1.3 Conduct Market Research
+1.3 Seek Initial Grant Opportunities
 
-1.4 Seek Initial Grant Opportunities
+1.4 Formulate Curriculum
 
-1.5 Formulate Curriculum
-
-1.6 Establish Partnerships
+1.5 Establish Partnerships
 
 ## 2. Development Phase
 
@@ -76,23 +74,18 @@
 -   Clearly outline the vision, mission, and objectives of the ASTRA Program.
 -   Identify the unique aspects of the program that align with accreditation standards.
 
-1.3 Conduct Market Research
-
--   Assess the demand for the program and its degree offerings (Bachelor's, Master's, and PhD).
--   Identify potential competitors and differentiate ASTRA's unique selling points.
-
-1.4 Seek Initial Grant Opportunities
+1.3 Seek Initial Grant Opportunities
 
 -   Identify and apply for grants that support educational program development, market research, and initial planning activities.
 -   Look for grants from educational foundations, government agencies, and private sector partners.
 
-1.5 Formulate Curriculum
+1.4 Formulate Curriculum
 
 -   Develop a detailed curriculum for each degree program, ensuring it meets educational standards.
 -   Integrate interdisciplinary courses, unique methodologies, and interest-driven activities.
 -   Consult with industry experts and academic advisors  to ensure the curriculum is relevant and up-to-date.
 
-1.6 Establish Partnerships
+1.5 Establish Partnerships
 
 -   Form partnerships with industry leaders (e.g., Microsoft Education Partner) to enhance program credibility.
 -   Collaborate with academic institutions and professionals for curriculum development and guest lectures.
