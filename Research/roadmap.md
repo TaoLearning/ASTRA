@@ -25,7 +25,9 @@
 
 2.5 Marketing and Recruitment
 
-2.6 Pilot Program
+2.6 Student Registration and Legal Guidance
+
+2.7 Pilot Program
 
 ## 3. Accreditation Preparation Phase
 
@@ -59,6 +61,9 @@
 
 
 ---
+
+
+### Roadmap to Accreditation for ASTRA Program
 
 ## 1. Initial Planning Phase
 
@@ -124,7 +129,13 @@
 -   Highlight the program's unique features, potential career opportunities, and innovative learning methodologies.
 -   Utilize digital marketing, outreach events, and partnerships with high schools and community colleges to promote the program.
 
-2.6 Pilot Program
+2.6 Student Registration and Legal Guidance
+
+-   Develop a streamlined registration process for both local and international students.
+-   Provide clear information and support for international students regarding visa and immigration requirements.
+-   Partner with USIVA to offer legal guidance and assistance for international students coming to the US.
+
+2.7 Pilot Program
 
 -   Run a pilot program to test the curriculum, teaching methodologies, and learning platforms.
 -   Collect feedback from pilot participants and make necessary adjustments.
