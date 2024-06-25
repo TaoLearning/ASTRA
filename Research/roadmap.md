@@ -3,22 +3,25 @@
 
 ### 1. Initial Planning Phase
 
-1.1 Define Program Goals and Objectives
+1.1 Create a Roadmap
+-   Develop a detailed roadmap with multiple milestones and track progress on GitHub to ensure transparency and accountability.
+
+1.2 Define Program Goals and Objectives
 
 -   Clearly outline the vision, mission, and objectives of the ASTRA Program.
 -   Identify the unique aspects of the program that align with accreditation standards.
 
-1.2 Conduct Market Research
+1.3 Conduct Market Research
 
 -   Assess the demand for the program and its degree offerings (Bachelor's, Master's, and PhD).
 -   Identify potential competitors and differentiate ASTRA's unique selling points.
 
-1.3 Formulate Curriculum
+1.4 Formulate Curriculum
 
 -   Develop a detailed curriculum for each degree program, ensuring it meets educational standards.
 -   Integrate interdisciplinary courses, unique methodologies, and interest-driven activities.
 
-1.4 Establish Partnerships
+1.5 Establish Partnerships
 
 -   Form partnerships with industry leaders (e.g., Microsoft Education Partner) to enhance program credibility.
 -   Collaborate with academic institutions and professionals for curriculum development and guest lectures.
