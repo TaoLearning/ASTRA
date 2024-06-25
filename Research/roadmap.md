@@ -111,7 +111,7 @@
 
 5.2 Seek Continuous Improvement Grants
 
--   *Apply for grants  that support ongoing program improvement, curriculum updates, and faculty development.
+-   Apply for grants  that support ongoing program improvement, curriculum updates, and faculty development.
 -   Explore grants from educational foundations, government programs, and industry partners focused on continuous improvement in education.
 
 5.3 Marketing and Recruitment
