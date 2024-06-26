@@ -18,4 +18,3 @@
 #####
 Right now, things are running fairly smooth, though our community managers at Focus Hive don’t have technical literacy, therefore their project management skills aren’t as specialized as we’d prefer them to be.
 Thus, we’d like you to refine the Focus Hive area or recommend a new area to train community managers who are also ASTRA-Nauts or at the very least have a passion for actually launching Androids![image (5)](https://github.com/Aini-Bashir/ASTRA/assets/117284277/95439a74-c5b2-4fda-8b41-e5aaa1421ad0)
-![image (5)](https://github.com/Aini-Bashir/ASTRA/assets/117284277/c5c4477e-e8f4-4277-82b3-efebdb0ed9cb)
