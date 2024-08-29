@@ -1,38 +1,17 @@
 ```mermaid
 gantt
-    title Roadmap for Hackney University Accreditation Project (6-Month Timeline)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %Y
-
-    section Quarter 1 (Months 1-3)
-    Research and Understanding          :q1_1, 2024-09-01, 30d
-    Initial Assessment                  :q1_2, 2024-10-01, 30d
-    Action Plan Development             :q1_3, 2024-11-01, 30d
-    Implementation Phase 1              :q1_4, 2024-09-01, 90d
-
-    section Quarter 2 (Months 4-6)
-    Implementation Phase 2              :q2_1, 2024-12-01, 30d
-    Internal Review                     :q2_2, 2025-01-01, 15d
-    Application Submission              :q2_3, 2025-01-16, 15d
-    External Review Preparation         :q2_4, 2025-02-01, 15d
-    Accreditation Decision              :q2_5, 2025-02-16, 15d
-    Continuous Improvement (Ongoing)    :q2_6, after q2_5, 30d
-
-    section Dependencies
-    Initial Assessment  :dep1, after q1_1, 30d
-    Action Plan Development :dep2, after dep1, 30d
-    Implementation Phase 1 :dep3, after dep2, 90d
-    Implementation Phase 2 :dep4, after dep3, 30d
-    Internal Review :dep5, after dep4, 15d
-    Application Submission :dep6, after dep5, 15d
-    External Review Preparation :dep7, after dep6, 15d
-    Accreditation Decision :dep8, after dep7, 15d
-
-    section Monitoring and Adjusting
-    Weekly or Bi-weekly Meetings          :monitor1, 2024-09-01, 6m
-    Regular Progress Reviews              :monitor2, 2024-09-01, 6m
-
-
+    title Project Timeline
+    dateFormat  YYYY-MM
+    section Phase 1
+    Initial Planning       :active, a1, 2024-09, 2024-10
+    section Phase 2
+    Development            :active, a2, 2024-10, 2025-01
+    section Phase 3
+    Preparation            :active, a3, 2025-01, 2025-03
+    section Phase 4
+    Review                 :active, a4, 2025-03, 2025-05
+    section Phase 5
+    Post-Accreditation     :active, a5, 2025-05, 2025-08
 
 ```
 
