@@ -1,3 +1,42 @@
+```mermaid
+gantt
+    title Roadmap for Hackney University Accreditation Project (6-Month Timeline)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %Y
+
+    section Quarter 1 (Months 1-3)
+    Research and Understanding          :q1_1, 2024-09-01, 30d
+    Initial Assessment                  :q1_2, 2024-10-01, 30d
+    Action Plan Development             :q1_3, 2024-11-01, 30d
+    Implementation Phase 1              :q1_4, 2024-09-01, 90d
+
+    section Quarter 2 (Months 4-6)
+    Implementation Phase 2              :q2_1, 2024-12-01, 30d
+    Internal Review                     :q2_2, 2025-01-01, 15d
+    Application Submission              :q2_3, 2025-01-16, 15d
+    External Review Preparation         :q2_4, 2025-02-01, 15d
+    Accreditation Decision              :q2_5, 2025-02-16, 15d
+    Continuous Improvement (Ongoing)    :q2_6, after q2_5, 30d
+
+    section Dependencies
+    Initial Assessment  :dep1, after q1_1, 30d
+    Action Plan Development :dep2, after dep1, 30d
+    Implementation Phase 1 :dep3, after dep2, 90d
+    Implementation Phase 2 :dep4, after dep3, 30d
+    Internal Review :dep5, after dep4, 15d
+    Application Submission :dep6, after dep5, 15d
+    External Review Preparation :dep7, after dep6, 15d
+    Accreditation Decision :dep8, after dep7, 15d
+
+    section Monitoring and Adjusting
+    Weekly or Bi-weekly Meetings          :monitor1, 2024-09-01, 6m
+    Regular Progress Reviews              :monitor2, 2024-09-01, 6m
+
+
+
+```
+
+
 # ASTRA
 The ASTRA is a program of Arts, Sciences, and Technology, Reasoning, and Automation. ASTRA offers a unique academic experience leading to IT, Psychology, Arts and Science. 
 ASTRA Program will help you choice between different learning modalities that would allow you to get your university degrees. ASTRA Program would help you get Bachelors, Masters and PHD degrees. 
