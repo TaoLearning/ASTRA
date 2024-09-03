@@ -15,6 +15,23 @@ gantt
 
 ```
 
+```mermaid
+gantt
+    title Project Timeline
+    dateFormat  YYYY-MM
+    section Phase 1
+    Initial Planning       :active, a1, 2024-09, 2024-12
+    section Phase 2
+    Development            :active, a2, 2024-11-11, 2025-02
+    section Phase 3
+    Preparation            :active, a3, 2025-02, 2025-04
+    section Phase 4
+    Review                 :active, a4, 2025-03, 2025-05
+    section Phase 5
+    Post-Accreditation     :active, a5, 2025-05, 2025-07
+
+```
+
 
 # ASTRA
 The ASTRA is a program of Arts, Sciences, and Technology, Reasoning, and Automation. ASTRA offers a unique academic experience leading to IT, Psychology, Arts and Science. 
