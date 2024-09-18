@@ -1,5 +1,5 @@
 # ASTRA Milestones and Issues
-#### Researcher: SuzyQuant
+###### Researcher: SuzyQuant
 
 ### 🌀 Welcome to ASTRA
 
