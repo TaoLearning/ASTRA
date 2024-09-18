@@ -1,34 +1,25 @@
 ```mermaid
 gantt
-    title Project Timeline
-    dateFormat  YYYY-MM
-    section Phase 1
-    Initial Planning       :active, a1, 2024-09, 2024-10
-    section Phase 2
-    Development            :active, a2, 2024-10, 2025-01
-    section Phase 3
-    Preparation            :active, a3, 2025-01, 2025-03
-    section Phase 4
-    Review                 :active, a4, 2025-03, 2025-05
-    section Phase 5
-    Post-Accreditation     :active, a5, 2025-05, 2025-08
+    title ASTRA Roadmap
+    dateFormat  YYYY-MM-DD
 
-```
+    section Qtr 4 2024
+    Welcome to ASTRA      :active, a1, 2024-09-18, 2024-11-30
 
-```mermaid
-gantt
-    title Project Timeline
-    dateFormat  YYYY-MM
-    section Phase 1
-    Initial Planning       :active, a1, 2024-09, 2024-12
-    section Phase 2
-    Development            :active, a2, 2024-11-11, 2025-02
-    section Phase 3
-    Preparation            :active, a3, 2025-02, 2025-04
-    section Phase 4
-    Review                 :active, a4, 2025-03, 2025-05
-    section Phase 5
-    Post-Accreditation     :active, a5, 2025-05, 2025-07
+    section Qtr 4 2024
+    Join ASTRA Academy Creators :active, a2, 2024-12-01, 2024-12-31
+
+    section Qtr 1 2025
+    ASTRA Mission Control :active, a3, 2025-01-01, 2025-03-31
+
+    section Qtr 2 2025
+    Earn your Masters or PhD :active, a4, 2025-04-01, 2025-05-31
+
+    section Qtr 2 2025
+    Launch ASTRA Academy :active, a5, 2025-06-01, 2025-06-30
+
+    section Qtr 3 2025
+    Expand Creator Network :active, a6, 2025-07-01, 2025-09-30
 
 ```
 
