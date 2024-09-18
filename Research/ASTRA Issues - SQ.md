@@ -1,7 +1,7 @@
 # ASTRA Milestones and Issues
-## Researcher: SuzyQuant
+#### Researcher: SuzyQuant
 
-### Welcome to ASTRA
+### 🌀 Welcome to ASTRA
 
 **Introduction:**
 
@@ -71,7 +71,7 @@ By addressing these detailed tasks and issues, ASTRA can ensure a smooth transit
 
 ---
 
-### Join ASTRA Academy Creators
+### 🌀 Join ASTRA Academy Creators
 
 **Introduction:**
 
@@ -142,7 +142,7 @@ By addressing these detailed tasks and issues, ASTRA can ensure a successful onb
 
 ---
 
-### The ASTRA Mission Control
+### 🌀 The ASTRA Mission Control
 
 **Introduction:**
 
@@ -213,7 +213,7 @@ By addressing these detailed tasks and issues, ASTRA can ensure a solid operatio
 
 ---
 
-### Come to America
+### 🌀 Come to America
 
 **Introduction:**
 
@@ -284,7 +284,7 @@ By addressing these detailed tasks and issues, ASTRA can ensure a comprehensive 
 
 ---
 
-### Earn Your Master’s or PhD
+### 🌀 Earn Your Master’s or PhD
 
 **Introduction:**
 
@@ -355,7 +355,7 @@ By addressing these detailed tasks and issues, ASTRA can create a robust framewo
 
 ---
 
-### Launch ASTRA Academy
+### 🌀 Launch ASTRA Academy
 
 **Introduction:**
 
@@ -426,7 +426,7 @@ By addressing these detailed tasks and issues, ASTRA can ensure a successful lau
 
 ---
 
-### Evaluate and Optimize ASTRA Operations
+### 🌀 Evaluate and Optimize ASTRA Operations
 
 **Introduction:**
 
@@ -496,7 +496,7 @@ By addressing these detailed tasks and issues, ASTRA can effectively evaluate an
 
 ---
 
-### Expand Creator Network
+### 🌀 Expand Creator Network
 
 **Introduction:**
 
