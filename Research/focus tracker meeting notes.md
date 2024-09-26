@@ -1,5 +1,51 @@
-### 
-## Major Scores:
+## Objective: Sort  the list below and write them to the appropriate Major Score Areas. Some items may not be relevant to any of the Score Areas but are needed in the Focus Suite Spreadsheet, so just leave them be.
+
+### List of Items from the Focus Suite Spreadsheet
+
+- Shift_ID
+- Display name
+- upn
+- Hive
+- Cell
+- Day
+- Time In
+- Break Start
+- Break End
+- Time Out
+- Total Time
+- Time In 2
+- gitOrg
+- gitRepo
+- issueKey
+- commentID
+- thread_id
+- Duplicates
+- Screen Shots
+- Focus In Score
+- Focus Out Score
+- Curiosity In Score
+- Curiosity Out Score
+- Coach Notes In
+- Coach Notes Out
+- Professionalism
+- Dress Code
+- Communication
+- Workspace
+- issue
+- commentLink
+- SnapShots
+- Recordings
+- Focus In
+- Presentations
+- Focus Out Summary
+- Focus Out
+- Focus In Summary
+- Coach Notes Readiness
+- Focus In Feedback Summary
+- Focus Out Feedback Summary
+- Presentation Analysis
+  
+### Major Scores:
  
 * Curiosity Score
 * Focus Score
@@ -7,7 +53,7 @@
 * Performance Score
 * Impact Score
 
-## Major Scores with Short Description
+### Major Scores with Short Description
  
 * Curiosity Score - Learning, getting badges, getting certifications
 * Focus Score - Focus on daily tasks and does not deviate
@@ -15,9 +61,11 @@
 * Performance Score - Doing actual work, expressing their learnings
 * Impact Score - Doing impactful work and just for the sake of working
 
-  Score total will be 100
+Score total will be 100
  
-### Then, a score below 30 = termination
+### Evaluation
+
+* a score below 30 = termination
 * Score below 50 = Performance Improvement Plan (PIP)
 * Score above 90 = Bonus
 * Professionalism Dress coat comunication Workspace Convert this in to useful notes
