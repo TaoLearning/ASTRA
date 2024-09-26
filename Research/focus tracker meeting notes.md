@@ -121,12 +121,12 @@ Score total will be 100
 * Score below 30 = termination
 * Score below 50 = Performance Improvement Plan (PIP)
 * Score above 90 = Bonus
-* Professionalism Dress coat comunication Workspace Convert this in to useful notes
+
 
 ### Other Notes
 
 #### Professionalism
-
+* Professionalism Dress coat, communication, clean workspace, take useful notes
 -   **Definition**: Conducting oneself with responsibility, integrity, accountability, and excellence in the workplace.
 -   **Key Aspects**:
     -   Punctuality
