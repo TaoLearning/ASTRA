@@ -123,7 +123,9 @@ Score total will be 100
 * Score above 90 = Bonus
 * Professionalism Dress coat comunication Workspace Convert this in to useful notes
 
-### Professionalism
+### Other Notes
+
+#### Professionalism
 
 -   **Definition**: Conducting oneself with responsibility, integrity, accountability, and excellence in the workplace.
 -   **Key Aspects**:
@@ -132,7 +134,7 @@ Score total will be 100
     -   Ethical behavior
     -   Respect for colleagues and clients
 
-### Dress Code
+#### Dress Code
 
 -   **Purpose**: To maintain a professional image and adhere to company standards.
 -   **Types**:
@@ -143,7 +145,7 @@ Score total will be 100
     -   Know your company’s policy.
     -   Dress appropriately for meetings and events.
 
-### Communication
+#### Communication
 
 -   **Importance**: Key to effective collaboration and relationship-building.
 -   **Types**:
@@ -155,7 +157,7 @@ Score total will be 100
     -   Be respectful and polite.
     -   Tailor your communication style to your audience.
 
-### Workspace
+#### Workspace
 
 -   **Environment**: Should be conducive to productivity and comfort.
 -   **Organization**:
