@@ -4,6 +4,17 @@
 * Curiosity Score
 * Focus Score
 * Professionalism Score
+* Performance Score
+* Impact Score
+
+## Major Scores with Short Description
+ 
+* Curiosity Score - Learning, getting badges, getting certifications
+* Focus Score - Focus on daily tasks and does not deviate
+* Professionalism Score - Dress standards, communication
+* Performance Score - Doing actual work, expressing their learnings
+* Impact Score - Doing impactful work and just for the sake of working
+
   Score total will be 100
  
 ### Then, a score below 30 = termination
