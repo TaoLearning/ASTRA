@@ -64,7 +64,7 @@ From this matrix let's start with first row where you will design a curriculum f
 |------------------|-----------------------|---------------------------|------------------|-----------|----------------|----------------|----------------|------------------|
 | Crown             | Leader Hive           | Perspective               |                  |           |                |                |                |                  |
 
-The title is not Curriculum Design for the Crown Chakra. It's just curriculum design period. However the contents of your curriculum design for this row is in the crown chakra so you can still include how the crown chakra is associated on each area of the ASTRAL. Write in table format following below, also write notes in narrative form below the table that has the Course Title, Description, and Learning Outcomes
+Write in table format following below, also write notes in narrative form below the table that has the Course Title, Description, and Learning Outcomes
 
 ---
 ---
