@@ -49,7 +49,7 @@ Feel free to adjust any entries or add more details as needed!
 ---
 ---
 
-### 📢 The information outlined below needs updated to match the "Filled-Up Table by SQ"
+### 📢 📢 📢 I still need to update to match the "Filled-Up Table by SQ"  but I need to finalize the table first before the content. 📢 📢 📢 
 
 ---
 ---
