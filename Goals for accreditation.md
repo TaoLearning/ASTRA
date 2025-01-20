@@ -1,81 +1,80 @@
 
-
-### **3-Month Goal (By April 17, 2025): Lay the Foundation for Accreditation**
+### **3-Month Goal: Lay the Foundation for Accreditation**
 **Objective:** Prepare for the new HLC requirements and establish a clear roadmap for accreditation.
 
 **Key Actions:**
 1. **Conduct a Gap Analysis:**
    - Evaluate current institutional practices against the new HLC requirements.
-   - KPI: Completion of gap analysis report by February 28, 2025.
+   - KPI: Completion of gap analysis report within 1 month.
 
 2. **Develop an Accreditation Task Force:**
    - Assemble a team of key stakeholders (faculty, staff, administrators, and board members) to oversee the accreditation process.
-   - KPI: Task force established and operational by February 15, 2025.
+   - KPI: Task force established and operational within 1 month.
 
 3. **Submit Eligibility Application:**
    - Prepare and submit the Eligibility Application to HLC.
-   - KPI: Submission of Eligibility Application by March 31, 2025.
+   - KPI: Submission of Eligibility Application within 2 months.
 
 4. **Launch Compliance Training:**
    - Begin training faculty and staff on the new HLC requirements.
-   - KPI: 100% of faculty and staff complete initial training by April 17, 2025.
+   - KPI: 100% of faculty and staff complete initial training within 3 months.
 
 ---
 
-### **1-Year Goal (By January 17, 2026): Achieve Candidacy and Prepare for Self-Study**
+### **1-Year Goal: Achieve Candidacy and Prepare for Self-Study**
 **Objective:** Attain HLC candidacy status and complete the groundwork for the self-study process.
 
 **Key Actions:**
 1. **Achieve Candidacy Status:**
    - Address any feedback from HLC on the Eligibility Application and secure candidacy status.
-   - KPI: Official notification of candidacy status by September 30, 2025.
+   - KPI: Official notification of candidacy status within 8 months.
 
 2. **Develop Self-Study Framework:**
    - Create a detailed plan for the self-study process, including timelines, responsibilities, and resource allocation.
-   - KPI: Self-study framework approved by the accreditation task force by October 31, 2025.
+   - KPI: Self-study framework approved by the accreditation task force within 9 months.
 
 3. **Align Institutional Practices:**
    - Ensure all academic programs, governance structures, and student support services meet the new HLC requirements.
-   - KPI: 100% of academic programs reviewed and updated by December 31, 2025.
+   - KPI: 100% of academic programs reviewed and updated within 11 months.
 
 4. **Conduct Internal Audits:**
    - Perform internal audits of financial stability, governance, and institutional effectiveness.
-   - KPI: Completion of internal audits with no major findings by December 31, 2025.
+   - KPI: Completion of internal audits with no major findings within 12 months.
 
 ---
 
-### **5-Year Goal (By January 17, 2030): Full Accreditation and Continuous Improvement**
+### **5-Year Goal: Full Accreditation and Continuous Improvement**
 **Objective:** Secure full HLC accreditation and establish a culture of continuous improvement.
 
 **Key Actions:**
 1. **Complete Self-Study and Host Site Visit:**
    - Finalize the self-study report and host a successful HLC site visit.
-   - KPI: Submission of self-study report by June 30, 2026.
-   - KPI: Successful site visit with no major recommendations by December 31, 2026.
+   - KPI: Submission of self-study report within 18 months.
+   - KPI: Successful site visit with no major recommendations within 24 months.
 
 2. **Achieve Full Accreditation:**
    - Address any recommendations from the site visit and secure full HLC accreditation.
-   - KPI: Official notification of full accreditation by June 30, 2027.
+   - KPI: Official notification of full accreditation within 30 months.
 
 3. **Implement Continuous Improvement Framework:**
    - Establish and maintain a robust system for ongoing assessment and improvement.
-   - KPI: Annual review of institutional goals with 90%+ achievement rate by 2028 and beyond.
+   - KPI: Annual review of institutional goals with 90%+ achievement rate starting from Year 3.
 
 4. **Enhance Institutional Reputation:**
    - Leverage HLC accreditation to improve student enrollment, retention, and graduation rates.
-   - KPI: Increase first-year retention rate to 80%+ by 2030.
-   - KPI: Increase graduation rate to 60%+ by 2030.
+   - KPI: Increase first-year retention rate to 80%+ by Year 5.
+   - KPI: Increase graduation rate to 60%+ by Year 5.
 
 5. **Expand Academic Offerings:**
    - Introduce new academic programs aligned with HLC standards and market demand.
-   - KPI: Launch 5+ new accredited programs by 2030.
+   - KPI: Launch 5+ new accredited programs by Year 5.
 
 ---
 
 ### **Summary of Goals:**
-- **3-Month Goal (By April 17, 2025):** Prepare for the new HLC requirements, submit the Eligibility Application, and launch compliance training.
-- **1-Year Goal (By January 17, 2026):** Achieve candidacy status, develop the self-study framework, and align institutional practices with HLC standards.
-- **5-Year Goal (By January 17, 2030):** Secure full HLC accreditation, implement a continuous improvement framework, and enhance institutional reputation and academic offerings.
+- **3-Month Goal:** Prepare for the new HLC requirements, submit the Eligibility Application, and launch compliance training.
+- **1-Year Goal:** Achieve candidacy status, develop the self-study framework, and align institutional practices with HLC standards.
+- **5-Year Goal:** Secure full HLC accreditation, implement a continuous improvement framework, and enhance institutional reputation and academic offerings.
 
 This plan ensures Hackney University is well-prepared to meet the new HLC requirements and achieve long-term success.
 
