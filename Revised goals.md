@@ -1,4 +1,5 @@
- **3-month, 1-year, and 5-year goals** for Hackney University, incorporating the **areas for improvement** to ensure alignment with HLC's Criteria for Accreditation and best practices
+ ## Strategic Plan for Achieving HLC Accreditation: A Roadmap for Hackney University’s 3-Month, 1-Year, and 5-Year Goals"
+
 
 ### **Revised 3-Month Goal: Lay the Foundation for Accreditation**
 **Objective:** Prepare for the new HLC requirements and establish a clear roadmap for accreditation.
@@ -7,7 +8,7 @@
 1. **Conduct a Comprehensive Gap Analysis:**
    - Evaluate current institutional practices against HLC's **five Criteria for Accreditation**.
    - Identify gaps in mission alignment, integrity, teaching and learning, resources, and institutional effectiveness.
-   - **KPI:** Completion of gap analysis report within **1 month**.
+   - **KPI:** Completion of gap analysis report within **2 weeks**.
 
 2. **Develop an Accreditation Task Force:**
    - Assemble a team of key stakeholders (faculty, staff, administrators, and board members) to oversee the accreditation process.
@@ -17,7 +18,7 @@
 3. **Submit Eligibility Application:**
    - Prepare and submit the Eligibility Application to HLC, ensuring all required documentation is included.
    - Address any feedback from HLC promptly.
-   - **KPI:** Submission of Eligibility Application within **2 months**.
+   - **KPI:** Submission of Eligibility Application within **2 months and 2 weeks**.
 
 4. **Launch Compliance Training:**
    - Train faculty and staff on HLC's new requirements, focusing on the **five Criteria for Accreditation**.
